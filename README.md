@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnkitFlow
-- 👀 I’m interested in .. JavaScript
-- 🌱 I’m currently learning ...Pythan
-- 💞️ I’m looking to collaborate on ...JS
+- 👀 I’m interested in .. Data analytics
+- 🌱 I’m currently learning ...Python
+- 💞️ I’m looking to collaborate on ...Data Science
 - 📫 How to reach me ...dwivediankit048@gmail.com
 -
 
